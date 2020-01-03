@@ -8,5 +8,8 @@
 # 职业发展
 1. [前端的技术栈是如何规划和演进的](https://juejin.im/post/5c99c17df265da6129788ae2)
 
+# 规范
+1. [git commit提交规范](https://juejin.im/post/5afc5242f265da0b7f44bee4#heading-9)
+
 # 工具
 1. [星辰](https://starhub.cloud) 需墙
