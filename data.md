@@ -10,6 +10,7 @@
 
 # 规范
 1. [git commit提交规范](https://juejin.im/post/5afc5242f265da0b7f44bee4#heading-9)
+2. [Javascript标准参考<阮一峰>](http://javascript.ruanyifeng.com)
 
 # 工具
 1. [星辰](https://starhub.cloud) 需墙
