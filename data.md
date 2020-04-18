@@ -6,6 +6,7 @@
 5. [leetcode题解](https://github.com/azl397985856/leetcode)
 6. [UDP/TCP协议知识](https://zhuanlan.zhihu.com/p/108822858)
 7. [web安全](https://web.stanford.edu/class/cs253/)
+8. [git相关知识](https://learngitbranching.js.org/?locale=zh_CN)
   
 # 技术栈
 1. [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
